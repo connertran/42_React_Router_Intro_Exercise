@@ -1,0 +1,27 @@
+.VendingMachine-div{
+  width: 100vw;
+  height: 100vh;
+  background-image: url('https://images.alphacoders.com/114/1140468.jpg');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.VendingMachine-h1{
+  margin-top: 0;
+  color: white;
+  text-shadow: 0 0 5px rgba(255, 255, 255, 0.8), 
+               0 0 10px rgba(255, 255, 255, 0.6),
+               0 0 15px rgba(255, 255, 255, 0.4);}
+.VendingMachine-intro{
+  border: solid white 2px;
+  background-color: rgb(154, 151, 151, 0.5);
+  width: 500px;
+  border-radius: 20px;
+}
+
+.VendingMachine-intro p{
+  color: white;
+  font-weight: 700;
+}

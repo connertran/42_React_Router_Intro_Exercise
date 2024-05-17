@@ -1,0 +1,16 @@
+img{
+  width: 200px;
+}
+.CocaCola-go-back-btn{
+  background-color: rgb(148, 136, 136);
+  padding: 8px 18px;
+  border-radius: 9px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+
+}
+.CocaCola-go-back-btn:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); 
+  transform: translateY(-2px); }
